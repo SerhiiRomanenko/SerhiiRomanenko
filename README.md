@@ -27,8 +27,6 @@
   <a href="https://t.me/who_am_i_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="@who_am_i_93 Telegram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 ### Programming Languages
 
 <p align="left">
