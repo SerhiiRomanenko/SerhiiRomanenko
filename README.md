@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/serhii-romanenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Serhii Romanenko LinkedIn" height="30" width="40" /></a>
   <a href="https://facebook.com/sergey.romanenko.9237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Serhii Romanenko Facebook" height="30" width="40" /></a>
   <a href="mailto:serhiiromanenko13@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="serhiiromanenko13@gmail.com" height="30" width="40" /></a>
-  <a href="https://t.me/who_am_i_93" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="@who_am_i_93 Telegram" height="30" width="40" /></a>
+  <a href="https://t.me/whoMakesThat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="@whoMakesThat Telegram" height="30" width="40" /></a>
 </p>
 
 ### Programming Languages
