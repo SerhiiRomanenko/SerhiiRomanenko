@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SerhiiRomanenko" alt="SerhiiRomanenko" /></a> </p>
 
-- 🔭 I’m currently working on my portfolio [My portfolio](https://majestic-cascaron-15e3c3.netlify.app/)
+- 🔭 I’m currently working on my portfolio [My portfolio](https://bespoke-speculoos-a08bd3.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://majestic-cascaron-15e3c3.netlify.app/](https://majestic-cascaron-15e3c3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bespoke-speculoos-a08bd3.netlify.app/](https://bespoke-speculoos-a08bd3.netlify.app/)
 
 - 📫 How to reach me **serhiiromanenko13@gmail.com**
 
-- 📄 Know about my experiences [https://majestic-cascaron-15e3c3.netlify.app/](https://majestic-cascaron-15e3c3.netlify.app/)
+- 📄 Know about my experiences [https://bespoke-speculoos-a08bd3.netlify.app/](https://bespoke-speculoos-a08bd3.netlify.app/)
 
 - ⚡ Fun fact **I think I'm funny**
 
